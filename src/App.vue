@@ -1,6 +1,7 @@
 <template>
   <h1 class="title">{{title}}</h1>
   <router-view></router-view>
+  <footer-black></footer-black>
 </template>
 
 <script>
